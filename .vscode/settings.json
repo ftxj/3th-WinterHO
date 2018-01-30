@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.xdc": "verilog",
+    "*.pdf": "tex",
+    "istream": "cpp",
+    "string": "cpp",
+    "system_error": "cpp",
+    "type_traits": "cpp",
+    "xstddef": "cpp",
+    "xtr1common": "cpp",
+    "xlocale": "cpp",
+    "xlocnum": "cpp",
+    "iostream": "cpp",
+    "xstring": "cpp"
+  }
+}
